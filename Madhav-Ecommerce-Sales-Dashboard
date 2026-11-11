@@ -1,0 +1,24 @@
+# Madhav E-Commerce Sales Dashboard
+
+This project is an interactive Power BI dashboard created to analyze Madhav E-Commerce sales data.
+
+## Project Overview
+The dashboard provides insights into sales, profit, quantity, customer behavior, and payment methods.
+
+## Tools Used
+- Microsoft Power BI
+- Microsoft Excel
+
+## Files Included
+- Dashboard.png
+- Dashboard.pbix
+- Details.xlsx
+- Orders.xlsx
+
+## Key Analysis
+- Sales and Profit Analysis
+- State-wise Sales
+- Monthly Profit Trends
+- Category-wise Analysis
+- Payment Mode Analysis
+- Customer Analysis
